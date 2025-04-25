@@ -4,3 +4,4 @@
 3. **task3** - using ml models for text classification and comparing metrics
 4. **task4** - experimenting with different vectorizers and application of LSA
 5. **task5** - experimenting with hyperparametrs of Tf-IDF to RandomForest and LogisticRegression
+6. **task6** - experimenting with hyperparametrs of Adaboost, XGBoost, GBM on two datasets (Imdb, ag-news)
