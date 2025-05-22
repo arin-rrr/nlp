@@ -5,3 +5,4 @@
 4. **task4** - experimenting with different vectorizers and application of LSA
 5. **task5** - experimenting with hyperparametrs of Tf-IDF to RandomForest and LogisticRegression
 6. **task6** - experimenting with hyperparametrs of Adaboost, XGBoost, GBM on two datasets (Imdb, ag-news)
+7. **task7** - using cross validation on 2 datasets with 3 ways of text preprocessing and 2 ways of vectorizers
