@@ -7,3 +7,5 @@
 6. **task6** - experimenting with hyperparametrs of Adaboost, XGBoost, GBM on two datasets (Imdb, ag-news)
 7. **task7** - using cross validation on 2 datasets with 3 ways of text preprocessing and 2 ways of vectorizers
 8. **task8** - experimentind alpha on naive_bayes and Word2Vec
+**LSTM** - LSTM training
+**BERT and DistilBERT embeddings** - using BERT and DistilBERT embeddings for LogisticRegression and SVM training
